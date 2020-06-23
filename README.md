@@ -1,3 +1,2 @@
 # PythonForEverybody
-Coursera Course Python for Everybody
-My Assignements from the Coursera specialization Python for eveybody
+My Assignements from the Coursera specialization Python for eveybody by the great Dr. Chuck
